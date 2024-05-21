@@ -1,1 +1,2 @@
-"# Some basic and essential algorithm" 
+# algorithm
+Some basic and essential algorithm
